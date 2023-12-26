@@ -1,0 +1,32 @@
+_repo: White-Sox-the-story-of-the-reindeer-in-Alaska_72294
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dummer, H. Boylston
+    gutenberg_agent_id: '56636'
+    url: http://www.gutenberg.org/2009/agents/56636
+creator:
+  author:
+    agent_name: Lopp, William T.
+    gutenberg_agent_id: '56635'
+    url: http://www.gutenberg.org/2009/agents/56635
+description: ''
+gutenberg_issued: '2023-12-02'
+identifiers:
+  gutenberg: '72294'
+language: en
+pgterms:marc904: https://archive.org/details/whitesoxthestory00lopp/page/n7/mode/2up
+pgterms:marc905: 20220407184102lopp
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bWorld Book Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: White Sox, the story of the reindeer in Alaska
+url: http://www.gutenberg.org/ebooks/72294
